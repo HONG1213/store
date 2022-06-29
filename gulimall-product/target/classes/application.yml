@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    username: root
+    password: 1213
+    url: jdbc:mysql://192.168.43.128:3306/gulimall_pms
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    alicloud:
+      access-key: LTAI5tJ5MY4gcbeTXR3M3Uxq
+      secret-key: JsnkzCBHf4eHyU0c2lqUeHMR5RpvXI
+      oss:
+        endpoint: oss-cn-beijing.aliyuncs.com
+  application:
+    name: gulimall-product
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+  redis:
+    host: 192.168.43.128
+    port: 6379
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto #主键自增
+      logic-delete-value: 0 # 逻辑已删除值(默认为 1)
+      logic-not-delete-value: 1 # 逻辑未删除值(默认为 0)
+logging:
+  level:
+    com.wang.gulimall: debug
