@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f47fc405-22f4-4ceb-91cc-d73baae9bc45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gulimall-product/src/main/java/com/wang/gulimall/product/config/MyCacheConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/java/com/wang/gulimall/product/GulimallProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/java/com/wang/gulimall/product/GulimallProductApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/java/com/wang/gulimall/product/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/java/com/wang/gulimall/product/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="f47fc405-22f4-4ceb-91cc-d73baae9bc45" name="Default Changelist" comment="商场项目">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,8 +383,16 @@
       <workItem from="1656304084571" duration="21483000" />
       <workItem from="1656396987673" duration="124000" />
       <workItem from="1656397265617" duration="30220000" />
-      <workItem from="1656470417726" duration="16155000" />
+      <workItem from="1656470417726" duration="16414000" />
     </task>
+    <task id="LOCAL-00001" summary="商场项目">
+      <created>1656488754735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656488754735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +400,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <confirmMoveToFailedCommit value="2" />
+    <MESSAGE value="商场项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="商场项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1656488324067">
@@ -526,10 +532,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="524" height="456" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1655386512211" />
-    <state x="553" y="194" width="816" height="546" key="Vcs.Push.Dialog.v2" timestamp="1656472310619">
+    <state x="553" y="194" width="816" height="546" key="Vcs.Push.Dialog.v2" timestamp="1656488781870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="194" width="816" height="546" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1656472310619" />
+    <state x="553" y="194" width="816" height="546" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1656488781870" />
     <state x="751" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1656471440658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
